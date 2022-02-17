@@ -1,4 +1,5 @@
-#steps ~ ol li {
+#steps ~ ol > li,
+#steps ~ ol > li > ul > li {
   margin-bottom: 20px;
 }
 
