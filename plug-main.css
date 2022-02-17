@@ -2,10 +2,20 @@
   margin-bottom: 20px;
 }
 
+@media screen and (min-width: 64em) {
+  .page-header {
+      padding: 3.6rem 6rem;
+  }
+}
+
 .page-header .btn {
   margin-bottom: 0;
 }
 
 .product-name {
   line-height: 1.25 !important;
+}
+
+#content h1 {
+  display: none;
 }
