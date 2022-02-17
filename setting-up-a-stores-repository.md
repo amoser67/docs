@@ -43,3 +43,9 @@
 - The *example-store* repo's *main* branch is where our commits should be made, and will contain the unpackaged JS and CSS source code.
 - It shouldn't be assumed that the theme subdirectory on the *main* branch is up to date with the published theme (but it will generally be close), that is what the *theme* branch is for.
 - Example repo: https://github.com/plugdigital/plug-dev-11-sandbox
+
+<style>
+#steps ~ ol > li {
+	margin-bottom: 20px;
+}
+</style>
