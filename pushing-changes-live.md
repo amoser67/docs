@@ -15,12 +15,9 @@
 ## Steps
 
 1. Duplicate theme **T** in Shopify as a precaution.
-2. Between #3 and #4 of the context:
-	- Commit changes from live to main branch.
-	- Create a new feature branch and switch to it.
-3. Commit your work in the feature branch and switch to the main branch.
-4. Pull theme **T** from Shopify.
-5. Commit changes from live on main branch.
-6. Merge feature branch.
-7. Push to theme **T** in Shopify.
-8. Push main branch to github.
+2. Commit your work in the feature branch and switch to the main branch.
+3. Pull theme **T** from Shopify.
+4. Commit changes from live on main branch.
+5. Merge feature branch.
+6. Push to theme **T** in Shopify.
+7. Push main branch to github.
