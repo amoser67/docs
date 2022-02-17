@@ -1,6 +1,7 @@
 
 # Instructions for Setting Up a Store's Repository
 
+[< All Docs](https://amoser67.github.io/docs/)
 
 ## Requirements
 
