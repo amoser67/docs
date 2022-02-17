@@ -13,7 +13,6 @@
 4. Shopify CLI is installed globally.
 
 
-
 ## Steps
 
 1. Clone the repository.
