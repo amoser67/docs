@@ -1,6 +1,5 @@
 # Instructions for Setting Up a Store's Repository
 
----
 
 ## Requirements
 - Shopify CLI.
@@ -9,7 +8,6 @@
 - SSH access to the plugdigital GitHub organization.
 - Admin access to the store that the theme is for.
 
----
 
 ## Steps
 1. Create a directory for the project, and navigate to it (replacing *example-store* with the store name).

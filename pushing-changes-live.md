@@ -1,6 +1,5 @@
 # Pushing Changes Live
 
----
 
 ## Context
 
@@ -12,7 +11,6 @@
 6. Make changes on dev theme.
 7. Changes are made to theme **T** (often by the client).
 
----
 
 ## Steps
 

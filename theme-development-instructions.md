@@ -1,7 +1,6 @@
 
 # Theme Development Instructions
 
----
 
 ## Requirements
 
@@ -14,7 +13,6 @@
 4. Shopify CLI is installed globally.
 
 
----
 
 ## Steps
 
